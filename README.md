@@ -1,5 +1,5 @@
 <h1> MNIST-Handwriting-recognization--model--Machine-learning-Project2 </h1>
-  <p>This machine learning model is made on Jupyter(Python) notebook . The provided here is from  <a href="https://www.tensorflow.org/datasets/catalog/mnist">MNIST(Modified National Institute of Standards and Technology database) Boston housing data</a></p>
+  <p>This machine learning model is made on Jupyter(Python) notebook . The provided here is from  <a href="https://www.tensorflow.org/datasets/catalog/mnist">MNIST(Modified National Institute of Standards and Technology database) </a></p>
 <h2>Languages/Platforms Used </h2>
 <ul>
 <li>Python 
